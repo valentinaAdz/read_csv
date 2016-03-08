@@ -1,0 +1,6 @@
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\bin\Debug\read_csv.exe.config
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\obj\Debug\read_csv.csprojResolveAssemblyReference.cache
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\bin\Debug\read_csv.exe
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\bin\Debug\read_csv.pdb
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\obj\Debug\read_csv.exe
+c:\users\valentina\documents\visual studio 2013\Projects\read_csv\read_csv\obj\Debug\read_csv.pdb
